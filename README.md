@@ -4,7 +4,7 @@
 
 # Welcome to my Github repository
 
- *Note: This repository is still under development**
+ *Note: This repository is still under development*
 
 ## Purpose of this repository
 
