@@ -4,11 +4,9 @@
 
 # Welcome to my Github repository
 
- *Note: This repository is still under development*
-
 ## Purpose of this repository
 
-The main purpose of this repository to showcase few Data science projects
+The main purpose of this repository to showcase my technical skills
 
 ## Technology
 
