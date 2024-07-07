@@ -8,8 +8,4 @@
 
 The main purpose of this repository to showcase my technical skills
 
-## Technology
-
-    * Python
-    * Anaconda
 
